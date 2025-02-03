@@ -28,7 +28,7 @@ class SearchSortRunner {
 
 
         System.out.println(Arrays.toString(valuesUnsorted));
-        SearchSort.mystery3(valuesUnsorted);
+        SearchSort.mystery5(valuesUnsorted);
         System.out.println(Arrays.toString(valuesUnsorted));
 
        // MODIFY - add code to test mystery4 and mystery5. How can you give each method a scrambled array?

@@ -8,19 +8,19 @@ Use this document as a place to document your answers to the questions. You won'
 Answer the following prediction questions.
 
 1. What will the program output when run?
-    > your answer
+    > The program will output whether the numbers from runner are found in the array using the search methods. 
 2. Identify which methods are searching methods.
-    >  your answer
+    >  The first two methods are searching methods. 
 3. What is the input and output to a search method?
-    > your answer
+    > The inputs are the target and the array and the output is an int representing whether the target is found. 
 4. Identify which methods are sorting methods.
-    >  your answer
+    >  Mystery 3, 4, 5 are sorting methods. 
 5. What is the input and output to a sort method?
-    > your answer
+    > The array to be sorted is the input to a sort method. There is no output to a sort method. 
 6. Which is the most effiecient search method? Explain why.
-    > your answer
+    > Splitting the array in half when it is sorted and then looking to see whether the target is bigger than the mid or smaller than the mid. 
 7. Which is the most efficient sort method? Explain why.
-    > your answer
+    > 
 
 ## Investigate
 Complete the JavaDoc for each of the methods. The description is super critical. Make sure that you indicate how the algorithm does its work. If you know the name of the algorithm, give it.
